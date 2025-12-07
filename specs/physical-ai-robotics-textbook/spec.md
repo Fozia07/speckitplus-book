@@ -3,7 +3,7 @@
 ## Global Book-Level Spec
 
 ### Overall Book Objective
-To provide a comprehensive, AI-native structural foundation for understanding and implementing physical AI and humanoid robotics, leveraging modern development tools and platforms.
+To provide a comprehensive, AI-native structural foundation for understanding and implementing physical AI and humanoid robotics for students with basic programming knowledge and a theoretical understanding of AI concepts, leveraging modern development tools and platforms.
 
 ### Reader Success Metrics
 - Ability to articulate the purpose and function of each module's core technologies (ROS 2, Gazebo/Unity, NVIDIA Isaac, VLM).
@@ -163,4 +163,9 @@ To explore the integration of vision, language, and action models to enable robo
 ### What is NOT included
 - Training custom large-scale Vision-Language Models from scratch.
 - Deep mathematical derivations of VLM architectures.
-- Low-level control theory or inverse kinematics (focus on AI decision-making).
+
+## Clarifications
+
+### Session 2025-12-07
+
+- Q: What is the primary target audience for this textbook? → A: Students with basic programming knowledge and a theoretical understanding of AI concepts.
