@@ -1,0 +1,8 @@
+{
+  "name": "speckitplus-book-root",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd my-website && npm install",
+    "build": "cd my-website && npm run build"
+  }
+}
