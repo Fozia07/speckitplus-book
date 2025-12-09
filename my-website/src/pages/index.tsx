@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/module-1-the-robotic-nervous-system-ros-2/intro">
+            to="/docs/ros2-system/intro">
             Start Learning 🚀
           </Link>
         </div>
